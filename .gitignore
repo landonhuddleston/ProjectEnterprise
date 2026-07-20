@@ -1,0 +1,23 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# VS Code
+.vscode/
+
+# VMware
+*.lck
+*.vmem
+*.vmsn
+
+# Virtual disks
+*.vmdk
